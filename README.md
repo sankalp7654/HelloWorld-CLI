@@ -1,4 +1,4 @@
-# HelloWorld Cli
+# HelloWorld Cli - sankalpcli
 
 Install and run sankalpcli on your command line.
 
